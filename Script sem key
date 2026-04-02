@@ -2,6 +2,7 @@ local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/x2zu/
 
 local Window = Library:Window({
     Title = "SYLAX HUB",
+
     Desc = "criado por nonex",
     Icon = 86801451021941,
     Theme = "Amethyst",
